@@ -1,2 +1,2 @@
 # Machine_learning_penguins
-Descrição: Restaurantes e estabelecimentos que dependem de gorjetas para os funcionários podem se beneficiar de um sistema que analisa padrões de pagamento. A análise de dados e Machine Learning podem ajudar a prever o valor da gorjeta que um cliente pode dar
+codigo para teste de machine learninh usando dados físicos (como peso, tamanho do bico, comprimento das nadadeiras),  foi construido um modelo de Machine Learning que preve a espécie do pinguim com alta precisão.
